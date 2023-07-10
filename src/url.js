@@ -1,0 +1,1 @@
+export const BASE_URL = "https://hollas-travel-booking-app-backend.onrender.com"
